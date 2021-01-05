@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_8_Sheptuhin_Android</string>
+    <string name="info">info</string>
+    <string name="exit">exit</string>
+    <string name="save_data">save_data</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="cancel">cancel</string>
+    <string name="saved">saved</string>
+</resources>
